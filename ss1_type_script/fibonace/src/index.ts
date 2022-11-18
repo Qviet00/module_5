@@ -15,4 +15,4 @@ function totalFibonacci(count: number) {
     console.log('total: ' + total);
     return total;
 }
-totalFibonacci(15);
+totalFibonacci(5);
